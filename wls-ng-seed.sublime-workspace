@@ -1,0 +1,666 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"field",
+				"fieldElements"
+			],
+			[
+				"bund",
+				"bundleFields"
+			],
+			[
+				"alph",
+				"alphaEvent"
+			],
+			[
+				"narrati",
+				"narrationUrl"
+			],
+			[
+				"FETC",
+				"fetchNarration"
+			],
+			[
+				"narrat",
+				"narrationUrl"
+			],
+			[
+				"fet",
+				"fetchNarrationByUrl"
+			],
+			[
+				"na",
+				"narrations"
+			],
+			[
+				"win",
+				"winWidth"
+			],
+			[
+				"stat",
+				"stateParams"
+			],
+			[
+				"sta",
+				"stateParams"
+			],
+			[
+				"fil",
+				"filtered"
+			],
+			[
+				"loca",
+				"locationProvider"
+			],
+			[
+				"fetch",
+				"fetchManifest"
+			],
+			[
+				"jso",
+				"jsonURL"
+			],
+			[
+				"json",
+				"jsonURL"
+			],
+			[
+				"fetchBl",
+				"fetchBlogService"
+			],
+			[
+				"main",
+				"mainCtrl"
+			],
+			[
+				"brow",
+				"browserifyDist"
+			],
+			[
+				"js",
+				"jshint"
+			],
+			[
+				"mini",
+				"minifyCSS"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"crea",
+				"CreativeWorksRanks"
+			],
+			[
+				"sub",
+				"subjectRanks"
+			],
+			[
+				"subj",
+				"subjectRanks"
+			],
+			[
+				"key",
+				"keyWordTypes"
+			],
+			[
+				"k",
+				"k"
+			],
+			[
+				"ke",
+				"keyword"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"sell",
+				"sell"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"sel",
+				"selectAll"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"tick",
+				"tickSubdivide"
+			],
+			[
+				"cons",
+				"consoleCtrl"
+			],
+			[
+				"delete",
+				"DELETE"
+			],
+			[
+				"m",
+				"myIoSocket"
+			],
+			[
+				"my",
+				"mySocket"
+			],
+			[
+				"c",
+				"currentStock"
+			],
+			[
+				"d3",
+				"d3Service"
+			],
+			[
+				"p",
+				"posts"
+			],
+			[
+				"service",
+				"serviceInstance"
+			],
+			[
+				"vie",
+				"view1"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "karma.conf.js",
+			"settings":
+			{
+				"buffer_size": 673,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "e2e-tests/scenarios.js",
+			"settings":
+			{
+				"buffer_size": 934,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1428,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/woody/wls-multi-view/src/less/app.less",
+		"/Users/woody/wls-multi-view/src/templates/send-tpl.html",
+		"/Users/woody/wls-multi-view/src/templates/alpha-tpl.html",
+		"/Users/woody/wls-multi-view/src/templates/beta-tpl.html",
+		"/Users/woody/wls-multi-view/src/templates/gamma-tpl.html",
+		"/Users/woody/wls-multi-view/src/js/app.js",
+		"/Users/woody/wls-multi-view/src/index.html",
+		"/Users/woody/wls-multi-view/src/js/directives/beta.js",
+		"/Users/woody/wls-multi-view/package.json",
+		"/Users/woody/wls-multi-view/src/js/directives/templates/beta-tpl.html",
+		"/Users/woody/wls-multi-view/src/js/controllers/mainCtrl.js",
+		"/Users/woody/ng/wls-directive/app/index.html",
+		"/Users/woody/wls-multi-view/src/directives/alpha.js",
+		"/Users/woody/wls-multi-view/Gruntfile.js",
+		"/Users/woody/wls-multi-view/src/less/override.less",
+		"/Users/woody/wls-multi-view/src/less/skeleton.less",
+		"/Users/woody/Desktop/wlsllc/index.html",
+		"/Users/woody/ng/wls-trade-client/app/wls-trade.js",
+		"/Users/woody/wls-multi-view/src/partials/main.html",
+		"/Users/woody/wls-multi-view/src/js/services/narrationEngine.js",
+		"/Users/woody/wls-multi-view/src/css/app.css",
+		"/Users/woody/wls-multi-view/bower.json",
+		"/Users/woody/wls-multi-view/README.md",
+		"/Users/woody/wls-ng-infinite/src/js/services/narrationEngine.js",
+		"/Users/woody/wls-ng-infinite/src/partials/narration.html",
+		"/Users/woody/wls-ng-infinite/src/partials/main.html",
+		"/Users/woody/wls-ng-infinite/src/less/skeleton.less",
+		"/Users/woody/wls-ng-infinite/package.json",
+		"/Users/woody/wls-ng-infinite/README.md",
+		"/Users/woody/wls-ng-infinite/src/index.html",
+		"/Users/woody/wls-ng-infinite/src/partials/narration-url.html",
+		"/Users/woody/wls-ng-infinite/src/css/app.css",
+		"/Users/woody/wls-ng-infinite/Gruntfile.js",
+		"/Users/woody/wls-ng-infinite/src/js/services/narrationService.js",
+		"/Users/woody/wls-ng-infinite/src/js/partials/main.html",
+		"/Users/woody/wls-gl-server/README.md",
+		"/Users/woody/wls-gl-server/package.json",
+		"/Users/woody/wls-gl-server/.gitignore",
+		"/Users/woody/wls-gothamlane/app/controllers/mainCtrl.js",
+		"/Users/woody/wls-gothamlane/app/less/skeleton.less",
+		"/Users/woody/wls-gothamlane/app/font-awesome-4.4.0/css/font-awesome.css",
+		"/Users/woody/wls-gothamlane/app/partials/about.html",
+		"/Users/woody/wls-gothamlane/app/css/app.css",
+		"/Users/woody/wls-gothamlane/package.json",
+		"/Users/woody/wls-gothamlane/Gruntfile.js",
+		"/Users/woody/wls-gothamlane/app/app.css",
+		"/Users/woody/wls-gothamlane/app/bower_components/angular/angular.js",
+		"/Users/woody/wls-gothamlane/bower.json",
+		"/Users/woody/wls-gothamlane/.gitignore",
+		"/Users/woody/wls-gothamlane/README.md",
+		"/Users/woody/Desktop/index.html",
+		"/Users/woody/wls-fetch-json/app/partials/main_state.html",
+		"/Users/woody/wls-fetch-json/app/partials/blog_post_url.html",
+		"/Users/woody/wls-fetch-json/app/less/skeleton.less",
+		"/Users/woody/wls-fetch-json/Gruntfile.js",
+		"/Users/woody/wls-fetch-json/app/json/blues-mr-david.json",
+		"/Users/woody/wls-fetch-json/app/less/app.less.css",
+		"/Users/woody/wls-fetch-json/app/json/tone-deaf-publishers-strike-again.json",
+		"/Users/woody/wls-fetch-json/app/css/wls.css",
+		"/Users/woody/wls-fetch-json/app/json/fog-more.json",
+		"/Users/woody/wls-fetch-json/app/partials/content.html",
+		"/Users/woody/wls-fetch-json/app/partials/content2.html",
+		"/Users/woody/wls-fetch-json/app/manifest.json",
+		"/Users/woody/wls-fetch-server/assets/all-news-fits.json",
+		"/Users/woody/wls-fetch-json/app/partials/sample.html",
+		"/Users/woody/ng/wls-fetch-blog/app/partials/blog_list.html",
+		"/Users/woody/ng/wls-fetch-blog/app/css/app.css",
+		"/Users/woody/ng/wls-fetch-blog/app/app.js",
+		"/Users/woody/wls-fetch-json/app/css/app.css",
+		"/Users/woody/wls-fetch-json/manifest.json",
+		"/Users/woody/wls_send_jlist.php",
+		"/Users/woody/wls-fetch-json/app/json/post.json",
+		"/Users/woody/wls-fetch-json/app/index.html",
+		"/Users/woody/Desktop/GL-S3/index.html",
+		"/Users/woody/Desktop/schemas/scoringdata.js",
+		"/Users/woody/periodic-test/package.json",
+		"/Users/woody/ptest/index.js",
+		"/Users/woody/periodic-test/index.js",
+		"/Users/woody/periodic/periodicjs/content/config/extensions/periodicjs.ext.wl/index.js",
+		"/Users/woody/periodic/periodicjs/content/config/extensions/periodicjs.ext.login/settings.json",
+		"/Users/woody/periodic/periodicjs/content/config/extensions/periodicjs.ext.wl/settings.json",
+		"/Users/woody/periodic/periodicjs/content/config/extensions.json",
+		"/Users/woody/periodic/periodicjs/content/config/extensions/periodicjs.ext.admin/settings.json",
+		"/Users/woody/periodic/periodicjs/content/config/extensions/periodicjs.ext.cache/settings.json",
+		"/Users/woody/periodic/periodicjs/index.js",
+		"/Users/woody/periodic/periodicjs/content/themes/periodicjs.theme.default/README.md",
+		"/Users/woody/ionic/todo/gulpfile.js",
+		"/Users/woody/ionic/todo/package.json",
+		"/Users/woody/ionic/todo/www/js/app.js",
+		"/Users/woody/ionic/todo/www/index.html",
+		"/Users/woody/wls-webpack/README.md",
+		"/Users/woody/webpack-seed/dist/bundle.js",
+		"/Users/woody/webpack-seed/dist/vendor.js",
+		"/Users/woody/wls-gulp/app/css/main.css",
+		"/Users/woody/wls-gulp/gulpfile.js",
+		"/Users/woody/wls-gulp/.gitignore",
+		"/Users/woody/wls-gulp/.bowerrc",
+		"/Users/woody/wls-gulp/bower.json",
+		"/Users/woody/wls-gulp/package.json",
+		"/Users/woody/wls-gulp/css/main.css",
+		"/Users/woody/wls-gulp/app/controllers/mainctrl.js",
+		"/Users/woody/design/wls-responsive1/index.html",
+		"/Users/woody/ng2/wls-ng/app/app.css",
+		"/Users/woody/ng2/wls-ng/app/partials/main_state.html",
+		"/Users/woody/ng2/wls-ng/app/index.html",
+		"/Users/woody/ng2/wls-ng/app/app.js",
+		"/Users/woody/Documents/WLS/sample-data.json",
+		"/Users/woody/gl/stylesheets/sass/palette_teal.scss",
+		"/Users/woody/design/wls-responsive1/stylesheets/sass/wls-responsive1.scss",
+		"/Users/woody/bootstrap/apps.html",
+		"/Users/woody/design/startbootstrap-2-col-portfolio/index.html",
+		"/Users/woody/Documents/WLS/DESIGN/agency/examples.html",
+		"/Users/woody/Desktop/apps.html",
+		"/Users/woody/design/wls-responsive1/stylesheets/css/wls-responsive1.css",
+		"/Users/woody/design/wls-responsive1/css/wls-responsive1.css",
+		"/Users/woody/Desktop/sass-245/index.html",
+		"/Users/woody/Desktop/sass-245/css/application.scss",
+		"/Users/woody/Desktop/sass-245/css/variables.scss",
+		"/Users/woody/ng/wls-mebn/controllers/contacts.js",
+		"/Users/woody/ng/wls-mebn/client/src/views/company_details.js",
+		"/Users/woody/ng/wls-mebn/client/src/main.js",
+		"/Users/woody/ng/wls-mebn/client/templates/contact_details.hbs",
+		"/Users/woody/ng/wls-mebn/public/css/wls.css",
+		"/Users/woody/ng/wls-mebn/server.js",
+		"/Users/woody/ng/wls-mebn/views/index.handlebars",
+		"/Users/woody/Documents/WLS/DESIGN/agency/index.html",
+		"/Users/woody/ng/wls-mebn/client/src/controller.js",
+		"/Users/woody/ng/wls-trade-client/package.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"',",
+			"beta",
+			"alpha",
+			"grid-offset-length",
+			"column",
+			"container",
+			"row",
+			"gothamlane",
+			"wls-row",
+			"wls-icon",
+			"container",
+			"html",
+			"container",
+			"main",
+			"background",
+			"items",
+			"container",
+			"grid",
+			"container",
+			"container-width-larger-than-mobile",
+			"max",
+			"150px",
+			"myApp",
+			"currentURL",
+			"console",
+			"current",
+			"h5",
+			"h4",
+			"h3",
+			"console",
+			"fetchHome",
+			"URL",
+			"content",
+			"bp-larger-than-mobile",
+			"container-width",
+			"bp-larger-than-mobile",
+			"container-width-larger-than-mobile",
+			"container-width-larger-than-phablet",
+			"container",
+			"width",
+			"wls-box",
+			"style",
+			"div",
+			"content",
+			"base",
+			"console",
+			"book",
+			"favicon",
+			"json",
+			"route",
+			"clean",
+			"1976d2",
+			"2196f3",
+			"urlRouterProvider",
+			"font",
+			"\">\n",
+			"nav-slot",
+			"&reg;",
+			"nav-slot",
+			"topic",
+			"img-responsive",
+			"header",
+			"\">\n",
+			"wlsApp",
+			"ws:",
+			"420",
+			"\">\n",
+			"subjectRanks",
+			"\"",
+			");",
+			"dataset",
+			"fill",
+			"open",
+			"window",
+			"mySocket",
+			"alpha",
+			"data",
+			"console",
+			"fonts",
+			"handle",
+			"chart",
+			"wls-handle",
+			"j",
+			"div",
+			"browsehappy",
+			"header",
+			"img",
+			"index",
+			"header",
+			"css",
+			"myApp",
+			"myapp",
+			"View 1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"beta",
+			"multiview",
+			"narrations",
+			"h6",
+			"h5",
+			"h4",
+			"nav-icon",
+			"&trade;",
+			"nav-icon",
+			"cue",
+			"wlsNYT",
+			"wlsTrade",
+			"socketService",
+			"data2",
+			"data1",
+			"wls-show"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "karma.conf.js",
+					"settings":
+					{
+						"buffer_size": 673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "e2e-tests/scenarios.js",
+					"settings":
+					{
+						"buffer_size": 934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 1428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/woody/ng/wls-state/wls-state.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true
+}
